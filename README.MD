@@ -8,5 +8,4 @@ The goal of this project is to put these frankenstein projects and the developer
 
 Inspired by the philosophy of Linus Torvalds, Richard Stallman and the Linux community, there will be no ICO or premine or any other form of commercial incentives for the developers. So if you're looking to get rich quick, look to other shitcoins like TRON or EOS.
 
--
 Dr. Manhattan
